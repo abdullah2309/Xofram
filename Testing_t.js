@@ -16,7 +16,7 @@ while (true) {
     End = BufferValue - MoveOut + preMoveOut;
 
     if (End === BufferSize) {
-        console.log("✅ Result is Equal to BufferSize");
+        console.log("Result is Equal to BufferSize");
         break;
     }
 
