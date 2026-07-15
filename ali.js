@@ -9,4 +9,5 @@ let address = "karachi"
 if(age > 18){
   console.log(name);
   console.log(age);
+  console.log(address);
 }
