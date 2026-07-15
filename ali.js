@@ -7,5 +7,5 @@ let age = 20;
 let address = "karachi"
 
 if(age > 18){
-  
+  console.log(name);
 }
