@@ -11,3 +11,6 @@ if(age > 18){
   console.log(age);
   console.log(address);
 }
+
+
+const data = "df"
