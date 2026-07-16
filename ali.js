@@ -13,6 +13,6 @@ if(age > 18){
 }
 
 
-const data = "df";
+const data = 16;
 const year = 2026;
 const mot = "july";
