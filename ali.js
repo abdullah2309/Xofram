@@ -14,3 +14,4 @@ if(age > 18){
 
 
 const data = "df"
+const year = 2026
