@@ -12,7 +12,8 @@ if(age > 18){
   console.log(address);
 }
 
-
 const data = 16;
 const year = 2026;
 const mot = "july";
+
+const mobile = "realme i5";
