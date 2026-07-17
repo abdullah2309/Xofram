@@ -21,5 +21,6 @@ const mobile = "realme i5";   // 17-july-2026  11:35:00 PM the Last Data
 const fr = "osm";
 function time_data(){
   let hol23 = 8342342;
-  console.log("hol23")
+  console.log("hol23");
+  console.log(hol23);
 }
