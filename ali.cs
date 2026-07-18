@@ -1,4 +1,7 @@
 ///cs////cs////
+:root{
+--white:#FFFFfF;
+}
 body{
  
 }
