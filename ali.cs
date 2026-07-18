@@ -10,3 +10,7 @@ color:#ffffff;
 color:#0000;
  font-size:34px;
 }
+
+.1231ds{
+ color:#341dfs;
+}
