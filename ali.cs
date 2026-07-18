@@ -1,6 +1,7 @@
 ///cs////cs////
 :root{
 --white:#FFFFfF;
+--primaiy:#02427f3;
 }
 body{
  
