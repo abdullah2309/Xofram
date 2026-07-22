@@ -1,2 +1,3 @@
 // 22-july-2026
-let name = ""
+let name = "";
+let data = [34,34]
