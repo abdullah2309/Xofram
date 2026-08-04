@@ -8,4 +8,5 @@
 const data = {
   name:"Abdullah",
   age:20,
+  address:"karachi",
 }
