@@ -1,5 +1,5 @@
 // 22-july-2026
 let name = "";
 let gmail = "";
-let JWT = "z3f42a";
+let JWT = "z3f42a-";
 let data = [34,34,"a","b","c","d"];
