@@ -2,5 +2,5 @@
 let name = "";
 let gmail = "";
 let JWT = "z3f42a-f3g2e2-23r21t-qw215g-53y2p2";
-let token=
+let token=""
 let data = [34,34,"a","b","c","d"];
