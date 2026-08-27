@@ -1,3 +1,4 @@
+// 5-aug-2026
 function updateTime() {
     const now = new Date();
     const hours = now.getHours().toString().padStart(2, '0');
