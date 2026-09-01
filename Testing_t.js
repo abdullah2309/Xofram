@@ -5,7 +5,7 @@ let DiceValue = 5;
 let MoveOut = Math.floor(Math.random() * 10);     // random value
 let preMoveOut = Math.floor(Math.random() * 10);  // random value
 
-let End;
+let End;  // end data
 
 console.log("Initial MoveOut:", MoveOut);
 console.log("Initial preMoveOut:", preMoveOut);
