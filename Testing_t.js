@@ -35,20 +35,12 @@ console.log("End:", End);
 
 
 
-
-
-
-
-
-
-
 // let BufferSize = 10;
 // // let Start = 7;
 // let BufferValue = 1;
 // let DiceValue = 5;
 // let MoveOut = 0;
 // let End;
-
 
 // // ---------------------------------SMALL
 
