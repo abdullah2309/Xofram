@@ -1,4 +1,4 @@
-let BufferSize = 14;
+let BufferSize = 4;
 let BufferValue = 7;
 let DiceValue = 5;
 
@@ -67,7 +67,7 @@ console.log("End:", End);
 // console.log("preMoveOut:", preMoveOut);
 // console.log("End:", End);
 // }
-
+// ---- ;; 
 // ---------------------------------BIG
 
 // if(BufferValue > BufferSize) {
