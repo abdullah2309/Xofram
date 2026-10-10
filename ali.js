@@ -16,7 +16,7 @@ const data = 16;
 const year = 2026;
 const mot = "july";
 
-const mobile = "realme i5";   // 17-july-2026  11:35:00 PM the Last Data
+const mobile = "realme i5";   // 17-july-2026   11:35:00 PM the Last Data
 
 const fr = "osm";
 function time_data(){
